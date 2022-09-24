@@ -10,4 +10,10 @@
     <ProjectReference Include="..\Entity.Core.CrossCutting\Entity.Core.CrossCutting.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="IServices\" />
+    <Folder Include="Services\" />
+    <Folder Include="Ports\" />
+  </ItemGroup>
+
 </Project>
